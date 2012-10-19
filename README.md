@@ -4,6 +4,8 @@ ParameterDependencyDetector
 MS Sql Stored Procedure Parameter Detector
 Detects the usages of parameters for MS Sql Stored Procedures.
 
+NOTE: To use this app, you will need to update the connection string found in the app.config file
+
 Created by Simon Colmer / Workshop2
 http://x-volt.com
 
